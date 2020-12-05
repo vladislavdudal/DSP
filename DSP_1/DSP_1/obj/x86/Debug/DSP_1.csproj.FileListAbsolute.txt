@@ -1,0 +1,67 @@
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\trDSP.exe
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\trDSP.pdb
+E:\WorkMaterials\ЦОС\trDSP\trDSP\bin\Debug\trDSP.exe
+E:\WorkMaterials\ЦОС\trDSP\trDSP\bin\Debug\trDSP.pdb
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\trDSP.Properties.Resources.resources
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WorkMaterials\ЦОС\trDSP\trDSP\obj\x86\Debug\trDSP.DSP_1.resources
+E:\WorkMaterials\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+E:\WorkMaterials\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+H:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+H:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+I:\ЦОС\DSP_1\DSP_1\bin\Debug\trDSP.exe
+I:\ЦОС\DSP_1\DSP_1\bin\Debug\trDSP.pdb
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.DSP_1.resources
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\trDSP.Properties.Resources.resources
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\ЦОС\DSP_1\DSP_1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\bin\Debug\trDSP.exe
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\bin\Debug\trDSP.pdb
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csprojAssemblyReference.cache
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.DSP_1.resources
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.Properties.Resources.resources
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.GenerateResource.cache
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.CoreCompileInputs.cache
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+D:\учёба\4 курс\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+D:\Универ\7сем\COS_\DSP_1\DSP_1\bin\Debug\trDSP.exe
+D:\Универ\7сем\COS_\DSP_1\DSP_1\bin\Debug\trDSP.pdb
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csprojAssemblyReference.cache
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.DSP_1.resources
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.Properties.Resources.resources
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.GenerateResource.cache
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.CoreCompileInputs.cache
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+D:\Универ\7сем\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+D:\Univer\7sem\COS_\DSP_1\DSP_1\bin\Debug\trDSP.exe
+D:\Univer\7sem\COS_\DSP_1\DSP_1\bin\Debug\trDSP.pdb
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csprojAssemblyReference.cache
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.DSP_1.resources
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.Properties.Resources.resources
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.GenerateResource.cache
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.CoreCompileInputs.cache
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+D:\Univer\7sem\COS_\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\bin\Debug\trDSP.exe
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\bin\Debug\trDSP.pdb
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csprojAssemblyReference.cache
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\trDSP.DSP_1.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\trDSP.Properties.Resources.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.GenerateResource.cache
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+C:\Users\Vlad\Downloads\Telegram Desktop\DSP_1\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
+C:\Users\User\Desktop\DSP_1\DSP_1\bin\Debug\trDSP.exe
+C:\Users\User\Desktop\DSP_1\DSP_1\bin\Debug\trDSP.pdb
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\trDSP.DSP_1.resources
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\trDSP.Properties.Resources.resources
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\DSP_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\trDSP.exe
+C:\Users\User\Desktop\DSP_1\DSP_1\obj\x86\Debug\trDSP.pdb
